@@ -16,3 +16,4 @@ while true do
     stats.Speed.Value = math.huge
     stats.Energy.Value = math.huge
 end
+https://raw.githubusercontent.com/YourUsername/RobloxScripts/main/InfiniteStatsScript.lua
